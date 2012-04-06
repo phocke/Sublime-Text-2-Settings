@@ -1,2 +1,3 @@
-./Backup
-./Settings
+*DS_store
+Backup/*
+Settings/*
