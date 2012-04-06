@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1333754110,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"CTags",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"Git",
+		"jQuery",
+		"Package Control",
+		"Rails Related Files",
+		"Sublime File Navigator",
+		"Sublime-HTMLPrettify",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"TrailingSpaces",
+		"ZenCoding"
+	]
+}

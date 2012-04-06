@@ -1,0 +1,14 @@
+def fib(array_length)
+  if array_length == 1
+    result = [0]
+  elsif array_length == 2
+    result = [0,1]
+  else
+    result = [0,1]
+    (array_length - 2).times do
+      result << ( result[-1] + result [-2] )
+    end
+  end
+
+  return result
+end
